@@ -1,4 +1,4 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: 30 segundos no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
 Este vídeo de 30 segundos apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
@@ -8,7 +8,7 @@ Este vídeo de 30 segundos apresenta uma visão rápida e envolvente do potencia
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial usar minha imagem e uma voz sintetizada, trazendo uma dimensão futurística ao vídeo.
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" utilizei a minha imagem e uma voz sintetizada, trazendo uma dimensão futurística ao vídeo.
 
 ## 🚀 Resultados
 O vídeo é uma máquina do tempo que transporta o espectador em uma viagem acelerada pelo universo das IAs Generativas, revelando seu imenso poder transformador.
