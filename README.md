@@ -13,7 +13,8 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" utilizei 
 ## 🚀 Resultados
 O vídeo é uma máquina do tempo que transporta o espectador em uma viagem acelerada pelo universo das IAs Generativas, revelando seu imenso poder transformador.
 
-[https://studio.d-id.com/share?id=4869226a76b877a673e2c578122d962b&utm_source=copy]()
+[Assista ao vídeo no LinkedIn](https://studio.d-id.com/share?id=4869226a76b877a673e2c578122d962b&utm_source=copy)
+
 
 ## 💭 Reflexão
 Este projeto proporcionou uma experiência extraordinária na arte de contar histórias visuais, empregando as IAs Generativas para tecer uma narrativa envolvente e impactante.
